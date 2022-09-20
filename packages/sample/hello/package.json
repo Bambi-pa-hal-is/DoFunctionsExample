@@ -7,7 +7,6 @@
     "test": "jest --coverage --runInBand --forceExit --verbose false"
   },
   "dependencies": {
-    "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "fluent-ffmpeg": "^2.1.2"
   },
   "devDependencies": {
